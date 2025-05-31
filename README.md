@@ -4,14 +4,6 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+code&size=23&pause=1000&color=2BA9F7&width=435&lines=Hello%2CThere!+%F0%9F%91%8B;This+is+hengvvang...;Nice+to+meet+you" alt="Typing SVG" /></a>
 </h1>
 
-<h5 align="center">
-  <code><a href="https://discord.com/channels/@me/1298544635454554113" title="Discord Profile"><img width="22" src="images/discord2.png"> Discord</a></code>
-  <code><a href="https://www.reddit.com/user/hengvvang/" title="Reddit Profile"><img width="22" src="images/reddit.png"> Reddit</a></code>
-  <code><a href="https://x.com/hengvvang" title="X Profile"><img width="22" src="images/x.png"> Twitter</a></code>
-  <code><a href="mailto:hengvvang@gmail.com" title="Gmail Profile"><img width="22" src="images/gmail.png"> Gmail</a></code>
-  <code><a href="mailto:hengvvang@proton.me" title="Protonmail Profile"><img width="22" src="images/protonmail.png"> Protonmail</a></code>
-</h5>
-
 <div align="center">
   <code><a href="https://discord.com/users/basoritiara" title="Discord Profile"><img width="22" src="images/discord2.png"> Discord</a></code>
   <code><a href="https://www.reddit.com/user/hengvvang/" title="Reddit Profile"><img width="22" src="images/reddit.png"> Reddit</a></code>
@@ -19,10 +11,6 @@
   <code><a href="mailto:hengvvang@gmail.com" title="Gmail"><img width="22" src="images/gmail.png"> Gmail</a></code>
   <code><a href="mailto:hengvvang@proton.me" title="Protonmail"><img width="22" src="images/protonmail.png"> Protonmail</a></code>
 </div>
-
-
-
-
 
 <br>
 <p align="center">
