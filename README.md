@@ -32,6 +32,7 @@
 <hr>
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+code&duration=4000&pause=1200&color=FFFFFF&center=true&vCenter=true&width=435&lines=Languages" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+code&duration=4000&pause=1200&color=000000&center=true&vCenter=true&width=435&lines=Languages" alt="Typing SVG" /></a>
 <br>
   <h3 align="center"> Embedded </h3>
   <p align="center">
@@ -53,6 +54,7 @@
 <hr>
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+code&duration=4000&pause=1200&color=000000&center=true&vCenter=true&width=435&lines=Workflow" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+code&duration=4000&pause=1200&color=FFFFFF&center=true&vCenter=true&width=435&lines=Workflow" alt="Typing SVG" /></a>
 <br>
   <div align="center">
   <code><img title="NixOS" height="44" src="images/nixos.svg"></code>
