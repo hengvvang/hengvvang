@@ -4,6 +4,69 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+code&size=23&pause=1000&color=2BA9F7&width=435&lines=Hello%2CThere!+%F0%9F%91%8B;This+is+hengvvang...;Nice+to+meet+you" alt="Typing SVG" /></a>
 </h1>
 
+
+
+
+
+<br>
+<p align="center">
+  Hi, I'm hengvvang, Embedded Engineer & Software Developer & Front-end Developer from China
+  <br>
+  <br>
+</p>
+
+<h5 align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+code&size=13&duration=4000&pause=1200&color=F7F7F7&width=435&lines=Stay+updated+with+my+latest+news+through+social+media" alt="Typing SVG" /></a>
+  <br>
+  <code><a href="https://discord.com/channels/@me/1298544635454554113" title="Discord Profile"><img width="44" src="images/discord2.png"> Discord</a></code>
+  <code><a href="https://www.reddit.com/user/hengvvang/" title="Reddit Profile"><img width="44" src="images/reddit.png"> Reddit</a></code>
+  <code><a href="https://x.com/hengvvang" title="X Profile"><img width="44" src="images/x.png"> Twitter</a></code>
+  <br>
+  <br>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+code&size=13&duration=4000&pause=1200&color=F7F7F7&width=435&lines=or+you+can+contact+me+via+email.." alt="Typing SVG" /></a>
+  <br>
+  <code><a href="hengvvang@gmail.com" title="Gmail Profile"><img width="44" src="images/gmail.png"> Gmail</a></code>
+  <code><a href="hengvvang@proton.me" title="Protonmail Profile"><img width="44" src="images/protonmail.png"> Protonmail</a></code>
+</h5>
+
+
+
+<hr>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+code&duration=4000&pause=1200&color=FFFFFF&center=true&vCenter=true&width=435&lines=Languages" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+code&duration=4000&pause=1200&color=FFFFFF&center=true&vCenter=true&width=435&lines=Languages" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+code&duration=4000&pause=1200&color=FFFFFF&center=true&vCenter=true&width=435&lines=Languages" alt="Typing SVG" /></a>
+<br>
+  <h3 align="center"> Embedded </h3>
+  <p align="center">
+  <code><img title="C" height="55" src="images/c.png"></code>
+  <code><img title="C++" height="55" src="images/cpp.png"></code>
+  <code><img title="Rust" height="55" src="images/rust.png"></code>
+  <code><img title="Python" height="55" src="images/python.png"></code>
+  </p>  
+<br>
+  <h3 align="center"> Front-end </h3>
+  <p align="center">
+  <code><img title="Javascript" height="55" src="images/javascript.png"></code>
+  <code><img title="Typescript" height="55" src="images/typescript3.png"></code>
+  <code><img title="HTML5" height="55" src="images/html51.png"></code>
+  <code><img title="CSS" height="55" src="images/css3.png"></code>
+  </p>  
+  
+<br>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+code&duration=4000&pause=1200&color=000000&center=true&vCenter=true&width=435&lines=Workflow" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+code&duration=4000&pause=1200&color=000000&center=true&vCenter=true&width=435&lines=Workflow" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+code&duration=4000&pause=1200&color=000000&center=true&vCenter=true&width=435&lines=Workflow" alt="Typing SVG" /></a>
+<p align="center">
+  <code><img title="Visual Studio Code" height="55" src="images/vscode.png"></code>
+  <!-- <code><img title="Zed" height="55" src="images/zed_blue.svg"></code> -->
+  <code><img title="Zed" height="55" src="images/zed.png"></code>
+</p>
+<hr>
+
+
+
+
 <div align="center">
   <code><a href="https://discord.com/users/basoritiara" title="Discord Profile"><img width="22" src="images/discord2.png"> Discord</a></code>
   <code><a href="https://www.reddit.com/user/hengvvang/" title="Reddit Profile"><img width="22" src="images/reddit.png"> Reddit</a></code>
