@@ -33,7 +33,7 @@
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+code&duration=4000&pause=1200&color=000000&center=true&vCenter=true&width=435&lines=Languages" alt="Typing SVG" /></a>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+code&duration=4000&pause=1200&color=FFFFFF&center=true&vCenter=true&width=435&lines=Languages" alt="Typing SVG" /></a>
-<br>
+
   <h3 align="center"> Embedded </h3>
   <p align="center">
   <code><img title="C" height="55" src="images/c.png"></code>
@@ -55,31 +55,29 @@
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+code&duration=4000&pause=1200&color=000000&center=true&vCenter=true&width=435&lines=Workflow" alt="Typing SVG" /></a>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+code&duration=4000&pause=1200&color=FFFFFF&center=true&vCenter=true&width=435&lines=Workflow" alt="Typing SVG" /></a>
-<br>
+
   <div align="center">
-  <code><img title="NixOS" height="44" src="images/nixos.svg"></code>
+  <code><img title="Git" height="55" src="images/git.png"></code>
+  <code><img title="Github" height="55" src="images/github3.png"></code>
+  <code><img title="Gitlab" height="55" src="images/gitlab.png"></code>
   </div>
   </br>
-
 
   <div align="center">
   <code><img title="Visual Studio Code" height="55" src="images/vscode.png"></code>
   <code><img title="Zed" height="55" src="images/zed.png"></code>
   <!-- <code><img title="Zed" height="55" src="images/zed_blue.svg"></code> -->
-  </div>
-  </br>
-
-  <div align="center">
-  <code><img title="Git" height="55" src="images/git.png"></code>
-  <code><img title="Github" height="55" src="images/github3.png"></code>
-  </div>
-  </br>
-
-  <div align="center">
   <code><img title="Zen" height="55" src="images/zen-browser.png"></code>
   <!-- <code><img title="Zen" height="55" src="images/zen_browser.png"></code> -->
   </div>
   </br>
+
+  <div align="center">
+  <code><img title="NixOS" height="44" src="images/nixos.svg"></code>
+  <code><img title="Docker" height="66" src="images/docker.png"></code>
+  </div>
+  </br>
+
 </p>
 
 <hr>
