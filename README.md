@@ -73,8 +73,10 @@
   </br>
 
   <div align="center">
+  <code><img title="Windows" height="44" src="images/windows.png"></code>
+  <code><img title="WSL" height="44" src="images/wsl.png"></code>
   <code><img title="NixOS" height="44" src="images/nixos.svg"></code>
-  <code><img title="Docker" height="66" src="images/docker.png"></code>
+  <code><img title="Docker" height="44" src="images/docker.png"></code>
   </div>
   </br>
 
