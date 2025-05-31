@@ -6,8 +6,6 @@
 
 
 
-
-
 <br>
 <p align="center">
   Hi, I'm hengvvang, Embedded Engineer & Software Developer & Front-end Developer from China
@@ -66,38 +64,6 @@
 
 
 
-
-<div align="center">
-  <code><a href="https://discord.com/users/basoritiara" title="Discord Profile"><img width="22" src="images/discord2.png"> Discord</a></code>
-  <code><a href="https://www.reddit.com/user/hengvvang/" title="Reddit Profile"><img width="22" src="images/reddit.png"> Reddit</a></code>
-  <code><a href="https://x.com/hengvvang" title="X Profile"><img width="22" src="images/x.png"> Twitter</a></code>
-  <code><a href="mailto:hengvvang@gmail.com" title="Gmail"><img width="22" src="images/gmail.png"> Gmail</a></code>
-  <code><a href="mailto:hengvvang@proton.me" title="Protonmail"><img width="22" src="images/protonmail.png"> Protonmail</a></code>
-</div>
-
-<br>
-<p align="center">
-  Hi, I'm hengvvang, Embedded Engineer & Software Developer & Front-end Developer from China
-  <br>
-  <br>
-</p>
-
-<hr>
-<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
-<br>
-<p align="center">
-  <code><img title="C" height="25" src="images/c.svg"></code>
-  <code><img title="C++" height="25" src="images/cpp.svg"></code>
-  <code><img title="Python" height="25" src="images/python-original.svg"></code>
-  <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
-  <code><img title="HTML5" height="25" src="images/html5.svg"></code>
-  <code><img title="CSS" height="25" src="images/css.svg"></code>
-  <code><img title="React" height="25" src="images/react-original.svg"></code>
-  <code><img title="Git" height="25" src="images/git-original.svg"></code>
-  <code><img title="GitHub" height="25" src="images/github.svg"></code>
-</p>
-<hr>
-
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <p align=center>
@@ -151,11 +117,3 @@
   </a>
 </div>
 <br/><br/><br/><br/><br/><br/>
-
-
-
-
-
-<h4 align="center">
-  <a href="https://github.com/hengvvang?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-</h4>
