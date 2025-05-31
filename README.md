@@ -8,8 +8,8 @@
   <code><a href="https://discord.com/channels/@me/1298544635454554113" title="Discord Profile"><img width="22" src="images/discord2.png"> Discord</a></code>
   <code><a href="https://www.reddit.com/user/hengvvang/" title="Reddit Profile"><img width="22" src="images/reddit.png"> Reddit</a></code>
   <code><a href="https://x.com/hengvvang" title="X Profile"><img width="22" src="images/x.png"> Twitter</a></code>
-  <code><a href="hengvvang@gmail.com" title="Gmail Profile"><img width="22" src="images/gmail.png"> Gmail</a></code>
-  <code><a href="hengvvang@proton.me" title="Protonmail Profile"><img width="22" src="images/protonmail.png"> Protonmail</a></code>
+  <code><a href="mailto: hengvvang@gmail.com" title="Gmail Profile"><img width="22" src="images/gmail.png"> Gmail</a></code>
+  <code><a href="mailto: hengvvang@proton.me" title="Protonmail Profile"><img width="22" src="images/protonmail.png"> Protonmail</a></code>
 </h5>
 <br>
 <p align="center">
