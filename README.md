@@ -69,6 +69,11 @@
   </div>
   </br>
 
+  <div align="center">
+  <code><img title="Git" height="55" src="images/git.png"></code>
+  <code><img title="Github" height="55" src="images/github3.png"></code>
+  </div>
+  </br>
 
   <div align="center">
   <code><img title="Zen" height="55" src="images/zen-browser.png"></code>
