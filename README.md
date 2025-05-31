@@ -30,7 +30,8 @@
 
 
 <hr>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+code&duration=4000&pause=1200&color=FFFFFF&center=true&vCenter=true&width=435&lines=Languages" alt="Typing SVG" /></a>
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+code&duration=4000&pause=1200&color=FFFFFF&center=true&vCenter=true&width=435&lines=Languages" alt="Typing SVG" /></a>
 <br>
   <h3 align="center"> Embedded </h3>
   <p align="center">
@@ -47,28 +48,40 @@
   <code><img title="HTML5" height="55" src="images/html51.png"></code>
   <code><img title="CSS" height="55" src="images/css3.png"></code>
   </p>  
-  
-<br>
+</p> 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+code&duration=4000&pause=1200&color=000000&center=true&vCenter=true&width=435&lines=Workflow" alt="Typing SVG" /></a>
-<p align="center">
-  <code><img title="Visual Studio Code" height="55" src="images/vscode.png"></code>
-  <!-- <code><img title="Zed" height="55" src="images/zed_blue.svg"></code> -->
-  <code><img title="Zed" height="55" src="images/zed.png"></code>
-</p>
 <hr>
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+code&duration=4000&pause=1200&color=000000&center=true&vCenter=true&width=435&lines=Workflow" alt="Typing SVG" /></a>
+<br>
+  <div align="center">
+  <code><img title="NixOS" height="44" src="images/nixos.svg"></code>
+  </div>
+  </br>
 
 
+  <div align="center">
+  <code><img title="Visual Studio Code" height="55" src="images/vscode.png"></code>
+  <code><img title="Zed" height="55" src="images/zed.png"></code>
+  <!-- <code><img title="Zed" height="55" src="images/zed_blue.svg"></code> -->
+  </div>
+  </br>
 
+
+  <div align="center">
+  <code><img title="Zen" height="55" src="images/zen-browser.png"></code>
+  <!-- <code><img title="Zen" height="55" src="images/zen_browser.png"></code> -->
+  </div>
+  </br>
+</p>
+
+<hr>
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
       <img align="left" width=390 src="https://streak-stats.demolab.com/?user=hengvvang&theme=react&border=61dafb&hide_border=true" alt="hengvvang" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=hengvvang&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
