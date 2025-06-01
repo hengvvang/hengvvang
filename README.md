@@ -29,12 +29,10 @@
   <code><a href="hengvvang@proton.me" title="Protonmail Profile"><img width="44" src="images/social/protonmail.png"> Protonmail</a></code>
 </h5>
 
-
-
 <hr>
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+code&duration=4000&pause=1200&color=000000&center=true&vCenter=true&width=435&lines=Languages" alt="Typing SVG" /></a>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+code&duration=4000&pause=1200&color=FFFFFF&center=true&vCenter=true&width=435&lines=Languages" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+code&duration=4000&pause=1200&color=000000&left=true&vCenter=true&width=435&lines=Languages" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+code&duration=4000&pause=1200&color=FFFFFF&left=true&vCenter=true&width=435&lines=Languages" alt="Typing SVG" /></a>
 
   <h3 align="center"> Embedded </h3>
   <p align="center">
@@ -54,8 +52,8 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+code&duration=4000&pause=1200&color=000000&center=true&vCenter=true&width=435&lines=Workflow" alt="Typing SVG" /></a>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+code&duration=4000&pause=1200&color=FFFFFF&center=true&vCenter=true&width=435&lines=Workflow" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+code&duration=4000&pause=1200&color=000000&left=true&vCenter=true&width=435&lines=Workflow" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+code&duration=4000&pause=1200&color=FFFFFF&left=true&vCenter=true&width=435&lines=Workflow" alt="Typing SVG" /></a>
 
   <div align="center">
   <code><img title="Git" height="55" src="images/workflow/git.png"></code>
@@ -73,7 +71,7 @@
   <!-- <code><img title="Zen" height="55" src="images/zen_browser.png"></code> -->
   </div>
   </br>
-
+  
   <div align="center">
   <code><img title="Windows" height="44" src="images/workflow/windows.png"></code>
   <code><img title="Mac" height="44" src="images/workflow/mac.png"></code>
@@ -87,7 +85,6 @@
 
 <hr>
 <h2 align="center">⚡ Stats ⚡</h2>
-
 <p align=center>
   <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hengvvang&theme=github-light&bg_color=ffffff&color=4c566a&line=5e81ac&point=81a1c1&area=true&hide_border=true" width="100%"/>
@@ -99,18 +96,3 @@
 <hr>
 
 ![Metrics](https://github.com/hengvvang/hengvvang/blob/main/images/github/aniList.svg)
-
-
-
-
-<!-- <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
-<br>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/hengvvang/Repository" title="Repository">
-    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=hengvvang&repo=Repository&theme=react&border_color=61dafb&border_radius=10">
-  </a>
-  <a align="right" href="https://github.com/hengvvang/Repository" title="Repository">
-    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=hengvvang&repo=Repository&theme=react&border_color=61dafb&border_radius=10">
-  </a>
-</div>
-<hr> -->
