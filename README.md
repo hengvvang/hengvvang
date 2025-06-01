@@ -10,7 +10,6 @@
 <p align="center">
   <!-- You can add some personal information here... -->
   <br>
-  <br>
 </p>
 
 <h5 align="center">
@@ -84,6 +83,7 @@
 </p>
 
 <hr>
+
 <h2 align="center">⚡ Stats ⚡</h2>
 <p align=center>
   <div align="center">
@@ -91,7 +91,7 @@
   </div>
 </p>
 
-![Metrics](https://github.com/hengvvang/hengvvang/blob/main/images/github/stargazers.svg)
+<!-- ![Metrics](https://github.com/hengvvang/hengvvang/blob/main/images/github/stargazers.svg) -->
 
 <hr>
 
