@@ -116,4 +116,4 @@
 <hr>
 
 
-![Metrics](https://github.com/hengvvang/hengvvang/blob/main/github-metrics.svg)
+![Metrics](https://github.com/hengvvang/hengvvang/blob/main/images/github/aniList.svg)
