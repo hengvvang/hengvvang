@@ -8,7 +8,7 @@
 
 <br>
 <p align="center">
-  Hi, I'm hengvvang, Embedded Engineer & Software Developer & Front-end Developer from China
+  <!-- You can add some personal information here... -->
   <br>
   <br>
 </p>
