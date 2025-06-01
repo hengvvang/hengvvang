@@ -16,15 +16,15 @@
 <h5 align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+code&size=13&duration=4000&pause=1200&color=F7F7F7&width=435&lines=Stay+updated+with+my+latest+news+through+social+media" alt="Typing SVG" /></a>
   <br>
-  <code><a href="https://discord.com/channels/@me/1298544635454554113" title="Discord Profile"><img width="44" src="images/discord2.png"> Discord</a></code>
-  <code><a href="https://www.reddit.com/user/hengvvang/" title="Reddit Profile"><img width="44" src="images/reddit.png"> Reddit</a></code>
-  <code><a href="https://x.com/hengvvang" title="X Profile"><img width="44" src="images/x.png"> Twitter</a></code>
+  <code><a href="https://discord.com/channels/@me/1298544635454554113" title="Discord Profile"><img width="44" src="images/social/discord-light-96.png"> Discord</a></code>
+  <code><a href="https://www.reddit.com/user/hengvvang/" title="Reddit Profile"><img width="44" src="images/social/reddit.png"> Reddit</a></code>
+  <code><a href="https://x.com/hengvvang" title="X Profile"><img width="44" src="images/social/x.png"> Twitter</a></code>
   <br>
   <br>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+code&size=13&duration=4000&pause=1200&color=F7F7F7&width=435&lines=or+you+can+contact+me+via+email.." alt="Typing SVG" /></a>
   <br>
-  <code><a href="hengvvang@gmail.com" title="Gmail Profile"><img width="44" src="images/gmail.png"> Gmail</a></code>
-  <code><a href="hengvvang@proton.me" title="Protonmail Profile"><img width="44" src="images/protonmail.png"> Protonmail</a></code>
+  <code><a href="hengvvang@gmail.com" title="Gmail Profile"><img width="44" src="images/social/gmail.png"> Gmail</a></code>
+  <code><a href="hengvvang@proton.me" title="Protonmail Profile"><img width="44" src="images/social/protonmail.png"> Protonmail</a></code>
 </h5>
 
 
@@ -36,18 +36,18 @@
 
   <h3 align="center"> Embedded </h3>
   <p align="center">
-  <code><img title="C" height="55" src="images/c.png"></code>
-  <code><img title="C++" height="55" src="images/cpp.png"></code>
-  <code><img title="Rust" height="55" src="images/rust.png"></code>
-  <code><img title="Python" height="55" src="images/python.png"></code>
+  <code><img title="C" height="55" src="images/lang/c.png"></code>
+  <code><img title="C++" height="55" src="images/lang/cpp.png"></code>
+  <code><img title="Rust" height="55" src="images/lang/rust.png"></code>
+  <code><img title="Python" height="55" src="images/lang/python.png"></code>
   </p>
 <br>
   <h3 align="center"> Front-end </h3>
   <p align="center">
-  <code><img title="Javascript" height="55" src="images/javascript.png"></code>
-  <code><img title="Typescript" height="55" src="images/typescript3.png"></code>
-  <code><img title="HTML5" height="55" src="images/html51.png"></code>
-  <code><img title="CSS" height="55" src="images/css3.png"></code>
+  <code><img title="Javascript" height="55" src="images/lang/javascript.png"></code>
+  <code><img title="Typescript" height="55" src="images/lang/typescript3.png"></code>
+  <code><img title="HTML5" height="55" src="images/lang/html51.png"></code>
+  <code><img title="CSS" height="55" src="images/lang/css3.png"></code>
   </p>
 </p>
 
@@ -57,27 +57,27 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+code&duration=4000&pause=1200&color=FFFFFF&center=true&vCenter=true&width=435&lines=Workflow" alt="Typing SVG" /></a>
 
   <div align="center">
-  <code><img title="Git" height="55" src="images/git.png"></code>
-  <code><img title="Github" height="55" src="images/github3.png"></code>
-  <code><img title="Gitlab" height="55" src="images/gitlab.png"></code>
+  <code><img title="Git" height="55" src="images/workflow/git.png"></code>
+  <code><img title="Github" height="55" src="images/workflow/github3.png"></code>
+  <code><img title="Gitlab" height="55" src="images/workflow/gitlab.png"></code>
   </div>
   </br>
 
   <div align="center">
-  <code><img title="Visual Studio Code" height="55" src="images/vscode.png"></code>
-  <code><img title="Zed" height="55" src="images/zed.png"></code>
+  <code><img title="Visual Studio Code" height="55" src="images/editor/vscode.png"></code>
+  <code><img title="Zed" height="55" src="images/editor/zed.png"></code>
   <!-- <code><img title="Zed" height="55" src="images/zed_blue.svg"></code> -->
-  <code><img title="Zen" height="55" src="images/zen-browser.png"></code>
+  <code><img title="Zen" height="55" src="images/workflow/zen-browser.png"></code>
   <!-- <code><img title="Zen" height="55" src="images/zen_browser.png"></code> -->
   </div>
   </br>
 
   <div align="center">
-  <code><img title="Windows" height="44" src="images/windows.png"></code>
-  <code><img title="Mac" height="44" src="images/mac.png"></code>
-  <code><img title="Docker" height="50" src="images/docker.png"></code>
-  <code><img title="WSL" height="44" src="images/wsl.png"></code>
-  <code><img title="NixOS" height="33" src="images/nixos.svg"></code>
+  <code><img title="Windows" height="44" src="images/workflow/windows.png"></code>
+  <code><img title="Mac" height="44" src="images/workflow/mac.png"></code>
+  <code><img title="Docker" height="50" src="images/workflow/docker.png"></code>
+  <code><img title="WSL" height="44" src="images/workflow/wsl.png"></code>
+  <code><img title="NixOS" height="33" src="images/workflow/nixos.svg"></code>
   </div>
   </br>
 
