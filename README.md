@@ -89,17 +89,14 @@
 <hr>
 <h2 align="center">⚡ Stats ⚡</h2>
 
-![Metrics](https://github.com/hengvvang/hengvvang/blob/main/images/github/stargazers.svg)
-
-<br>
-
 <p align=center>
   </div>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hengvvang&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
-<hr>
+![Metrics](https://github.com/hengvvang/hengvvang/blob/main/images/github/stargazers.svg)
 
+<hr>
 
 ![Metrics](https://github.com/hengvvang/hengvvang/blob/main/images/github/aniList.svg)
 
