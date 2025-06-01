@@ -88,9 +88,9 @@
 
 <hr>
 <h2 align="center">⚡ Stats ⚡</h2>
-<p align=center>
+
 ![Metrics](https://github.com/hengvvang/hengvvang/blob/main/images/github/stargazers.svg)
-</p>
+
 <br>
 
 <p align=center>
@@ -100,9 +100,8 @@
 
 <hr>
 
-<p align=center>
+
 ![Metrics](https://github.com/hengvvang/hengvvang/blob/main/images/github/aniList.svg)
-</p>
 
 
 
