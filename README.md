@@ -40,7 +40,7 @@
   <code><img title="C++" height="55" src="images/cpp.png"></code>
   <code><img title="Rust" height="55" src="images/rust.png"></code>
   <code><img title="Python" height="55" src="images/python.png"></code>
-  </p>  
+  </p>
 <br>
   <h3 align="center"> Front-end </h3>
   <p align="center">
@@ -48,8 +48,8 @@
   <code><img title="Typescript" height="55" src="images/typescript3.png"></code>
   <code><img title="HTML5" height="55" src="images/html51.png"></code>
   <code><img title="CSS" height="55" src="images/css3.png"></code>
-  </p>  
-</p> 
+  </p>
+</p>
 
 <hr>
 <p align="center">
@@ -74,8 +74,9 @@
 
   <div align="center">
   <code><img title="Windows" height="44" src="images/windows.png"></code>
-  <code><img title="WSL" height="44" src="images/wsl.png"></code>
+  <code><img title="Mac" height="44" src="images/mac.png"></code>
   <code><img title="Docker" height="50" src="images/docker.png"></code>
+  <code><img title="WSL" height="44" src="images/wsl.png"></code>
   <code><img title="NixOS" height="33" src="images/nixos.svg"></code>
   </div>
   </br>
