@@ -90,8 +90,9 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 
 <p align=center>
+  <div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hengvvang&theme=github-light&bg_color=ffffff&color=4c566a&line=5e81ac&point=81a1c1&area=true&hide_border=true" width="100%"/>
   </div>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hengvvang&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
 ![Metrics](https://github.com/hengvvang/hengvvang/blob/main/images/github/stargazers.svg)
