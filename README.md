@@ -96,7 +96,7 @@
 
 <hr>
 
-<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+<!-- <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/hengvvang/Repository" title="Repository">
@@ -107,7 +107,7 @@
   </a>
 </div>
 
-<hr>
+<hr> -->
 
 
 ![Metrics](https://github.com/hengvvang/hengvvang/blob/main/images/github/aniList.svg)
