@@ -14,6 +14,7 @@
 </p>
 
 <h5 align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+code&size=13&duration=4000&pause=1200&color=232323&width=435&lines=Stay+updated+with+my+latest+news+through+social+media" alt="Typing SVG" /></a>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+code&size=13&duration=4000&pause=1200&color=F7F7F7&width=435&lines=Stay+updated+with+my+latest+news+through+social+media" alt="Typing SVG" /></a>
   <br>
   <code><a href="https://discord.com/channels/@me/1298544635454554113" title="Discord Profile"><img width="44" src="images/social/discord-light-96.png"> Discord</a></code>
@@ -22,6 +23,7 @@
   <br>
   <br>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+code&size=13&duration=4000&pause=1200&color=F7F7F7&width=435&lines=or+you+can+contact+me+via+email.." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+code&size=13&duration=4000&pause=1200&color=232323&width=435&lines=or+you+can+contact+me+via+email.." alt="Typing SVG" /></a>
   <br>
   <code><a href="hengvvang@gmail.com" title="Gmail Profile"><img width="44" src="images/social/gmail.png"> Gmail</a></code>
   <code><a href="hengvvang@proton.me" title="Protonmail Profile"><img width="44" src="images/social/protonmail.png"> Protonmail</a></code>
