@@ -64,6 +64,7 @@
   </br>
 
   <div align="center">
+  <code><img title="Zed" height="50" src="images/editor/vim-96.png"></code>
   <code><img title="Visual Studio Code" height="55" src="images/editor/vscode.png"></code>
   <code><img title="Zed" height="55" src="images/editor/zed.png"></code>
   <!-- <code><img title="Zed" height="55" src="images/zed_blue.svg"></code> -->
