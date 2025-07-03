@@ -1,3 +1,4 @@
+<!--
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=hengvvang.hengvvang">
 
 <h1 align="center">
@@ -96,3 +97,4 @@
 <hr>
 
 ![Metrics](https://github.com/hengvvang/hengvvang/blob/main/images/github/aniList.svg)
+-->
