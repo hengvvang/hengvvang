@@ -24,7 +24,7 @@
   <code><img title="rio" height="55" src="assets/images/workflow/rio.svg"></code>
   <code><img title="zellij" height="55" src="assets/images/workflow/zellij.png"></code>
   <code><img title="yazi" height="50" src="assets/images/workflow/yazi.webp"></code>
-  code><img title="vscode" height="50" src="assets/images/editor/vscode.png"></code>
+  <code><img title="vscode" height="50" src="assets/images/editor/vscode.png"></code>
   <code><img title="zed" height="50" src="assets/images/editor/zed.png"></code>
   <code><img title="zen" height="50" src="assets/images/workflow/zen-browser.png"></code>
   </div>
